@@ -1,4 +1,4 @@
-# This rproject has been created during the course WEB UI automated testing with RobotFramework and Selenium conducted by J. Szewczyk
+# This project has been created during the course WEB UI automated testing with RobotFramework and Selenium conducted by J. Szewczyk
 
 ## Detailed training program
 Introduction
